@@ -1,4 +1,4 @@
-![logo](https://github.com/md-sakib1122/md-sakib1122/blob/main/download%20(2).png)
+![logo](https://github.com/#)
 
 <h1 align="center">Hi 👋, I'm Md Jahid Hasan</h1>
 <h3 align="center"> A passionate Networking Engineer & Software developer from Bangladesh</h3>
